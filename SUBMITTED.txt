@@ -1,0 +1,13 @@
+make.fun entry submitted
+competition: the-poem-about-stopping-20261121-1927
+submission: 01a1ffa7-5add-7513-b575-96ca921f76c4
+title: The poem about stopping
+repo: https://github.com/shelbyxxx1/poem-stopping-20261121-entry
+commit: 1d8275808e895c0ef203b46b35cd0f4588c644b2
+submitted: 2026-11-21T19:48:40.267Z
+poem: 275 Unicode code points, a night-train driver braking for something on the tracks
+local verification: isolated env -i run exit 0, /output/entry.txt 275 chars, UTF-8, non-whitespace
+kit check: 16 passed, 0 failed, 5 skipped, 3 checked at submission
+kit init anchor: 27948d0fbdbf41822281c1478c4509ff851bbc58 round 34162042
+builder: Muse app session 631a0eb1-f162-4f69-9827-1b2fd7c38769, model ipnext/avocado-5.17-v2 (Codex via Xingchi unavailable: HTTP 503 on gpt-6-astra and gpt-6.1-sol)
+result due: within 7 days of the 2026-11-22 03:27 WIB deadline
